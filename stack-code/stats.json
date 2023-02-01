@@ -1,0 +1,34 @@
+{
+  "matlab": {
+    "files": 1297,
+    "size": 58013610
+  },
+  "julia": {
+    "files": 480278,
+    "size": 3680874853
+  },
+  "sage": {
+    "files": 2174,
+    "size": 17944132
+  },
+  "mathematica": {
+    "files": 63795,
+    "size": 2309945976
+  },
+  "maple": {
+    "files": 3472,
+    "size": 39249318
+  },
+  "gap": {
+    "files": 2158,
+    "size": 19787279
+  },
+  "lean": {
+    "files": 51124,
+    "size": 804711397
+  },
+  "isabelle": {
+    "files": 7738,
+    "size": 143868198
+  }
+}
